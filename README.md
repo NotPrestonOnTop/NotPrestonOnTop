@@ -1,3 +1,5 @@
+![watermelon cat picture](https://github.com/NotPrestonOnTop/NotPrestonOnTop/blob/main/images.jpg)
+
 # hi, i'm notpreston
 > **lemon**
 
@@ -11,5 +13,3 @@ my favorite color is `#00FFFF`
 i have nothing else bye
 
 ![lamaloo picture](https://github.com/NotPrestonOnTop/NotPrestonOnTop/blob/main/lamaloo.png)
-
-![watermelon cat picture](https://github.com/NotPrestonOnTop/NotPrestonOnTop/blob/main/images.jpg)
